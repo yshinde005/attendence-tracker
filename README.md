@@ -11,6 +11,3 @@
 - run `npm start` to start the server
 - goto `http://localhost:3000`
 - All students are listed by default
-  ![localhost:3000](https://i.imgur.com/jRMaoFS.png)
-- Change date to list students present to that day
-  ![chdate](https://i.imgur.com/e2BNEnp.png)
